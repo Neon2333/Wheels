@@ -1,0 +1,22 @@
+<UI version="4.0" >
+ <class>ListWidgetCustom01Class</class>
+ <widget class="QWidget" name="ListWidgetCustom01Class" >
+  <property name="objectName" >
+   <string notr="true">ListWidgetCustom01Class</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>ListWidgetCustom01</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <connections/>
+</UI>

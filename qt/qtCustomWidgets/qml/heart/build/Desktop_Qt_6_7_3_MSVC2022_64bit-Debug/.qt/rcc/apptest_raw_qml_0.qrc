@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/test/">
+    <file alias="Main.qml">C:/Users/Administrator/Desktop/test/Main.qml</file>
+    <file alias="HeartRound.qml">C:/Users/Administrator/Desktop/test/HeartRound.qml</file>
+    <file alias="HeartSquare.qml">C:/Users/Administrator/Desktop/test/HeartSquare.qml</file>
+  </qresource>
+</RCC>
+

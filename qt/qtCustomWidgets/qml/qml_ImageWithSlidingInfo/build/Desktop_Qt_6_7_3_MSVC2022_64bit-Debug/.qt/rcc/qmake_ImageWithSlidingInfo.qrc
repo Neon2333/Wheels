@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/ImageWithSlidingInfo">
+    <file alias="qmldir">E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/ImageWithSlidingInfo/qmldir</file>
+  </qresource>
+</RCC>
+

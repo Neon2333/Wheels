@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>E:/WorkSpace/icons/biliTV_46_46.png</file>
+        <file>E:/WorkSpace/icons/biliTV_96_96.png</file>
+    </qresource>
+</RCC>

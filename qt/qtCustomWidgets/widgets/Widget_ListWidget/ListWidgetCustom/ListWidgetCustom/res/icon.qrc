@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icon_normal">icon/unbrella_outline.png</file>
+        <file alias="icon_hover_selected">icon/unbrella_filled.png</file>
+        <file alias="icon3">icon/moon.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release
+-I
+D:/Qt6.7/6.7.3/msvc2022_64/qml
+--resource
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release/.qt/rcc/qmake_test.qrc
+--resource
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release/.qt/rcc/apptest_raw_qml_0.qrc
+C:/Users/Administrator/Desktop/test/Main.qml
+C:/Users/Administrator/Desktop/test/HeartRound.qml
+C:/Users/Administrator/Desktop/test/HeartSquare.qml
+--json
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release/apptest_qmllint.json

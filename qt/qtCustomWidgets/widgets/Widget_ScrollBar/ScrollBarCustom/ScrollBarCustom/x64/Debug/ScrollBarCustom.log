@@ -1,0 +1,278 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.3
+  main.cpp
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x228 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x22a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x22d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x26a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x26c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x2e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x36c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x36d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x36e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x370 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x371 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x373 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x376 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x379 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x37c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x3ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x48f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x490 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x491 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x492 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x493 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x497 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x499 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x49b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x49f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x513 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x514 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x515 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x54b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x54d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x550 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x5ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x625 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x627 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x62b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x62e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x678 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x67a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x67e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x67f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x6ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x6ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x700 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x704 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x706 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x707 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x708 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x70c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x70e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x710 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x711 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x713 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x73d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x740 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x74a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x758 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x75a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x75b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x7dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x828 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x82a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0x82b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\main.cpp(1,1): warning C4828: 文件包含在偏移 0xb61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x4647 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x4649 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x464b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x464d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x20e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x20f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x235 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x255 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x256 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x258 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x25c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x25f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x260 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x261 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x268 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x279 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x27a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x27b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x27c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x27e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x27f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x282 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x286 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x287 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\ScrollBarCustom\ScrollBarCustom.h(1,1): warning C4828: 文件包含在偏移 0x2bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+  ScrollBarCustom.vcxproj -> E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_ScrollBarCustom\x64\Debug\ScrollBarCustom.exe

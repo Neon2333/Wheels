@@ -1,0 +1,22 @@
+<UI version="4.0" >
+ <class>WormClass</class>
+ <widget class="QWidget" name="WormClass" >
+  <property name="objectName" >
+   <string notr="true">WormClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Worm</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <connections/>
+</UI>

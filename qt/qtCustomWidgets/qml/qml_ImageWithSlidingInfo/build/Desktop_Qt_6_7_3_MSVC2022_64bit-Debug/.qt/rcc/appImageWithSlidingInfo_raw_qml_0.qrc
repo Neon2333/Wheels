@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/ImageWithSlidingInfo/">
+    <file alias="Main.qml">E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/Main.qml</file>
+    <file alias="res.qrc">E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/res.qrc</file>
+  </qresource>
+</RCC>
+

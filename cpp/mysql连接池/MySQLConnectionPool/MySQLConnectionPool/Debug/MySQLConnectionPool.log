@@ -1,0 +1,21 @@
+﻿  MySQLConnectionPool.cpp
+  MySQLHelper.cpp
+C:\Users\Administrator\Desktop\MySQLConnectionPool\MySQLConnectionPool\MySQLHelper.cpp(74,25): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\MySQLConnectionPool\MySQLConnectionPool\MySQLHelper.cpp(97,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+C:\Users\Administrator\Desktop\MySQLConnectionPool\MySQLConnectionPool\MySQLHelper.cpp(104): warning C4715: “MySQLHelper::value”: 不是所有的控件路径都返回值
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_num_fields@4，函数 "public: class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __thiscall MySQLHelper::fields(void)" (?fields@MySQLHelper@@QAE?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@XZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_fields@4，函数 "public: class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __thiscall MySQLHelper::fields(void)" (?fields@MySQLHelper@@QAE?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@XZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，函数 "public: __thiscall MySQLHelper::MySQLHelper(void)" (??0MySQLHelper@@QAE@XZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，函数 "public: bool __thiscall MySQLHelper::connect(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned int)" (?connect@MySQLHelper@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@000I@Z) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，函数 "public: bool __thiscall MySQLHelper::query(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?query@MySQLHelper@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，函数 "public: bool __thiscall MySQLHelper::query(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?query@MySQLHelper@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，函数 "public: void __thiscall MySQLHelper::freeQueryResult(void)" (?freeQueryResult@MySQLHelper@@QAEXXZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，函数 "public: bool __thiscall MySQLHelper::next(void)" (?next@MySQLHelper@@QAE_NXZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_lengths@4，函数 "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall MySQLHelper::value(int)" (?value@MySQLHelper@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_commit@4，函数 "public: bool __thiscall MySQLHelper::commit(void)" (?commit@MySQLHelper@@QAE_NXZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_rollback@4，函数 "public: bool __thiscall MySQLHelper::rollback(void)" (?rollback@MySQLHelper@@QAE_NXZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_autocommit@8，函数 "public: bool __thiscall MySQLHelper::transaction(void)" (?transaction@MySQLHelper@@QAE_NXZ) 中引用了该符号
+MySQLHelper.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，函数 "public: __thiscall MySQLHelper::~MySQLHelper(void)" (??1MySQLHelper@@QAE@XZ) 中引用了该符号
+D:\MySQL8.0.36\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\Administrator\Desktop\MySQLConnectionPool\Debug\MySQLConnectionPool.exe : fatal error LNK1120: 13 个无法解析的外部命令

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>unbrella_filled.png</file>
+        <file>biliTV.png</file>
+        <file>biliTV_96_96.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+-rootPath
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo
+-cmake-output
+-output-file
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/.qt/qml_imports/appImageWithSlidingInfo_build.cmake
+-importPath
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/ImageWithSlidingInfo
+-importPath
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug
+-importPath
+D:/Qt6.7/6.7.3/msvc2022_64/qml
+-qrcFiles
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_ImageWithSlidingInfo.qrc
+E:/WorkSpace/Wheel/qtWidgets/qml/ImageWithSlidingInfo/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/.qt/rcc/appImageWithSlidingInfo_raw_qml_0.qrc

@@ -1,0 +1,7 @@
+--resource
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release/.qt/rcc/qmake_test.qrc
+--resource
+C:/Users/Administrator/Desktop/test/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Release/.qt/rcc/apptest_raw_qml_0.qrc
+/qt/qml/test/Main.qml
+/qt/qml/test/HeartRound.qml
+/qt/qml/test/HeartSquare.qml

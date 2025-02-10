@@ -1,0 +1,478 @@
+﻿  MainWindow.cpp
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x132 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x134 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x13a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x143 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x145 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x152 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x153 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x157 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x37b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x37c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x37f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x381 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x77a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x77b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x77e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x77f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x780 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x781 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x782 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x783 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x786 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x788 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x78a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x78c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x78f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x794 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x795 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x796 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x797 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x8e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd88 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd89 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xd91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdbe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdc2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdcc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xddc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xddd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xdde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xde0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xde4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xde5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xf9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfa3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfa7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfc7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfcd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfd7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfdb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfdc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfdd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfde 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xfee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xff2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xff3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xff4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xff6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xff8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xffa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0xffe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1001 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1002 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x12ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1300 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1301 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1305 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1306 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1307 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1312 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1322 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1324 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1325 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1326 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1328 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1329 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x132e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1335 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1339 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x133a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x133c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x133d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x133e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x133f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1340 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1346 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1349 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x134c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x134e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x134f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1359 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x135b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x135c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x135d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x135f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1363 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.cpp(1,1): warning C4828: 文件包含在偏移 0x1364 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x22e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x23f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x244 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x247 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x24c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\MainWindow.h(1,1): warning C4828: 文件包含在偏移 0x25e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x4647 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x4649 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x464b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+D:\Qt6.7\6.7.3\msvc2022_64\include\QtWidgets\qwidget.h(1,1): warning C4828: 文件包含在偏移 0x464d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x222 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x226 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x228 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x24a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x254 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x256 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x276 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x290 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x2e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x450 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x452 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x453 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x454 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x457 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x458 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x459 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x45c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x45e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x45f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x463 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x465 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x48d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x48f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x491 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x492 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x493 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x497 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x498 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x499 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x49a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x4de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x4e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x4ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x4ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x510 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x512 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x513 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x517 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x51b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x51c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x51d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x52c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x52e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x52f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x533 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x536 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x538 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x539 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x53a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x53b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x58e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x590 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x591 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x592 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x593 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x594 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\sidebar01\SideBar.h(1,1): warning C4828: 文件包含在偏移 0x595 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“MainWindow.cpp”)
+  
+  sidebar01.vcxproj -> E:\WorkSpace\Wheel\qtCustomWidgets\widgets\Widget_SideBarNoFixedBar\x64\Debug\sidebar01.exe
