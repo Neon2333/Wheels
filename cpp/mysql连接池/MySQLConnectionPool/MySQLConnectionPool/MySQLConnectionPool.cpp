@@ -5,7 +5,7 @@ int main()
 {
 	MySQLConntion* mysql = new MySQLConntion();
 	
-	if (mysql->connect("localhost", "root", "wk3217609", "test"))
+	if (mysql->connect("localhost", "root", "666666", "test"))
 	{
 		std::cout << "connected.." << std::endl;
 	}
